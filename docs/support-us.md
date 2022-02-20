@@ -3,8 +3,7 @@ title: "Support Us"
 sidebar_position: 5
 slug: '/support-us'
 ---
-OpenBeta is possible thanks to the support of the community.  We are creating and maintaining open source tools to make volumes of crowd-sourced climbing information, created and shared by climbers, 
-continue to be accessible as a public resource.
+OpenBeta is possible thanks to the support of the community.
 
 ### How can you help?
 
