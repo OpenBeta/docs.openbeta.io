@@ -4,16 +4,18 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* You can override the default Infima variables here. 2e8555*/
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #1f726b;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 95%;  
+  --ifm-font-size-base: 18px;
+  --ifm-font-family-base: 'Vectro';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -25,6 +27,9 @@ html[data-theme='dark'] {
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+  --ifm-background-color:  #19212C;
+  --ifm-background-surface-color: #1F2937;
+
 }
 
 .docusaurus-highlight-code-line {
@@ -36,4 +41,86 @@ html[data-theme='dark'] {
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.markdown h1:first-child {
+  font-size: 2.5rem;
+  letter-spacing: -0.0025em;
+  font-weight: 600;
+}
+
+.markdown h2 {
+  font-size: 1.85rem;
+}
+
+.markdown p {
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.theme-doc-markdown p img {
+  border-radius: 8px;
+}
+
+.menu__list-item-collapsible {
+  font-weight: 700;
+}
+
+.footer__copyright {
+  font-size: small
+}
+
+article {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-Thin.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-Light.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+    font-family: "Vectro";
+    src: url("/fonts/VCTR-Mono-v0.10-Regular.woff2") format('woff2');
+    font-style: normal;
+    font-weight: 400;
+  }
+
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-RegularItalic.woff2") format('woff2');
+  font-style: italic;
+  font-weight: 400;
+  }
+
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-Medium.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-MediumItalic.woff2") format('woff2');
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Vectro";
+  src: url("/fonts/VCTR-Mono-v0.10-Bold.woff2") format('woff2');
+  font-style: normal;
+  font-weight: 700;
 }
