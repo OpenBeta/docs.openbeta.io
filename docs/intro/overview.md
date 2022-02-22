@@ -2,7 +2,7 @@
 sidebar_position: 2
 slug: /introduction/overview
 ---
-# Technical Overview
+# Technical overview
 
 We publish climbing content ("data") in two forms, *human-readable* and *machine-readable*.  
 
