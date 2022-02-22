@@ -6,13 +6,14 @@
 
 /* You can override the default Infima variables here. 2e8555*/
 :root {
-  --ifm-color-primary: #1f726b;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --color-primary-brand: #F15e40;
+  --ifm-color-primary: #2f6a6c;
+  --ifm-color-primary-dark: #2a5f61;
+  --ifm-color-primary-darker: #285a5c;
+  --ifm-color-primary-darkest: #214a4c;
+  --ifm-color-primary-light: #347577;
+  --ifm-color-primary-lighter: #367a7c;
+  --ifm-color-primary-lightest: #3d8a8c;
   --ifm-code-font-size: 95%;  
   --ifm-font-size-base: 18px;
   --ifm-font-family-base: 'Vectro';
@@ -20,13 +21,13 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #b1c077;
+  --ifm-color-primary-dark: #a5b662;
+  --ifm-color-primary-darker: #9fb157;
+  --ifm-color-primary-darkest: #849545;
+  --ifm-color-primary-light: #bdca8c;
+  --ifm-color-primary-lighter: #c3cf97;
+  --ifm-color-primary-lightest: #d6deb7;
   --ifm-background-color:  #19212C;
   --ifm-background-surface-color: #1F2937;
 
@@ -43,19 +44,25 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-
+/* Make doc H1 smaller */
 .markdown h1:first-child {
   font-size: 2.5rem;
   letter-spacing: -0.0025em;
   font-weight: 600;
 }
 
+/* Make doc H2 smaller */
 .markdown h2 {
   font-size: 1.85rem;
 }
 
+/* Redefine H3 smaller */
+.markdown h3 {
+  font-size: 1.35rem;
+}
+
 .markdown p {
-  font-weight: 400;
+  font-weight: normal;
   font-size: 1rem;
 }
 
@@ -63,18 +70,39 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   border-radius: 8px;
 }
 
+/* Emphasize sidebar section headings */
 .menu__list-item-collapsible {
   font-weight: 700;
 }
 
+/* Deemphasize copyright footer */
 .footer__copyright {
   font-size: small
 }
 
+/* Make doc page narrower/easier to scan */
 article {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.navbar__link {
+  font-weight: bold;
+  color: var(--ifm-color-primary-lighter);
+}
+
+.navbar__link:hover {
+  font-weight: bold;
+  color: var(--color-primary-brand);
+}
+
+.table-of-contents .table-of-contents__link--active {
+  border-left: 4px solid var(--color-primary-brand);
+  color: var(--color-primary-brand);
+  font-weight: bold;
+  margin-left: -16px;
+  padding-left: 12px;
 }
 
 @font-face {

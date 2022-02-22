@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'OpenBeta documentation',
+  tagline: 'Climbing is cool',
   url: 'https://tacos.openbeta.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,17 +44,17 @@ const config = {
           src: 'img/OB_logo_sm.png'
         },
         items: [
-          { to: '/', label: 'Docs', position: 'right' },
+          { to: '/', label: 'Documentation', position: 'left' },
           {
             type: 'doc',
             docId: 'how-to-contribute/overview',
-            position: 'right',
+            position: 'left',
             label: 'How to Contribute'
           },
           {
             href: 'https://tacos.openbeta.io',
             label: 'OpenTacos',
-            position: 'right'
+            position: 'left'
           }
         ]
       },
@@ -93,6 +93,10 @@ const config = {
               {
                 label: 'OpenTacos',
                 href: 'https://tacos.openbeta.io'
+              },
+              {
+                label: '@openbeta/sandbag',
+                href: 'https://github.com/OpenBeta/sandbag'
               }
             ]
           }
@@ -106,7 +110,7 @@ const config = {
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
         switchConfig: {
           darkIcon: '\u{1F506}',
           darkIconStyle: {
@@ -117,8 +121,6 @@ const config = {
           lightIcon: '\u{1F4A1}',
           lightIconStyle: {
             margin: '2px',
-            // marginRight:'2px',
-            // marginTop: '3px'
           },
         },
       },
