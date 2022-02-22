@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/OpenBeta/docs.openbeta.io/blob/develop/docs'
+          editUrl: 'https://github.com/OpenBeta/docs.openbeta.io/blob/develop'
         },
         blog: false,
         theme: {

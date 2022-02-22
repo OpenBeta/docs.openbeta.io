@@ -1,6 +1,6 @@
 ---
-title: "Follow Our Progress"
-sidebar_position: 5
+title: "Follow our progress"
+sidebar_position: 9
 slug: '/stay-connected'
 ---
 
