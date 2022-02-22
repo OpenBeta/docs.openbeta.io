@@ -12,8 +12,6 @@ Documents are **groups of pages** connected through:
 
 ## Create your first Doc
 
-Create a markdown file at `docs/hello.md`:
-
 ```md title="docs/hello.md"
 # Hello
 

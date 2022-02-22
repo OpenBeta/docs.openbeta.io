@@ -1,14 +1,15 @@
 ---
 sidebar_position: 2
-title: "Onboarding Checklist"
+title: "Dev Onboarding Checklist"
+sidebar_label: "Onboarding Checklist"
 ---
-
-### Bootcamp Requirements
+## Bootcamp Requirements
+:::note 
 - [ ] Sign up for [Discord](https://discord.com/invite/a5HskjmqPc)
 - [ ] GitHub: be able to fork a repo and submit a pull-request
 - [ ] GitHub: be able to rebase your branch with remote
 
----
+:::
 
 ## Frontend
 ### Week 1
