@@ -8,7 +8,7 @@ title: "Roadmap"
 ### Project mission
 
 - Continue to provide open license climbing datasets
-- Improve wiki: better searching and collaborative editing
+- Improve the wiki: easy to use search and collaborative editing
 
 ### Short term (due April 2022)
 
@@ -21,6 +21,7 @@ title: "Roadmap"
 
 - Route edit: allow users add/update routes to db
 - Photo upload: allow users to upload photos
+- Define KPI
 
 ### Long term
 - Coordinate data cleanup: FA field, crag's latitude, longitude

@@ -4,20 +4,23 @@ title: "Onboarding Checklist"
 sidebar_label: "Onboarding Checklist"
 ---
 ## General Checklist
-:::note Checklist for everyone
+:::info Checklist for everyone
 - [ ] Sign up for [Discord](https://discord.com/invite/a5HskjmqPc)
+- [ ] Sign up for [GitHub](https://github.com/signup)
+
 :::
 
 ## Dev Bootcamp Checklist
-:::note Bootcamp checklist for Dev
+:::info Bootcamp Checklist for Dev
 - [ ] Sign up for [Discord](https://discord.com/invite/a5HskjmqPc)
+- [ ] Sign up for [GitHub](https://github.com/signup)
 - [ ] GitHub: be able to fork a repo and submit a pull-request
 - [ ] GitHub: be able to rebase your branch with remote
 :::
 
 ## Frontend
 ### Week 1
-- [ ] Complete all steps in **Dev Bootcamp Checklis**
+- [ ] Complete **Dev Bootcamp Checklist**
 - [ ] Be able to build the [OpenTacos](https://github.com/openbeta/open-tacos) project on your machine.
 
 ### Week 2
@@ -30,7 +33,7 @@ sidebar_label: "Onboarding Checklist"
 
 ## Backend
 ### Week 1
-- [ ] Complete all steps in **Dev Bootcamp Checklis**
+- [ ] Complete **Dev Bootcamp Checklist**
 - [ ] Be able to build the [GraphQL API](https://github.com/OpenBeta/openbeta-graphql) project on your machine.
 
 ### Week 2
