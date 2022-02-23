@@ -1,12 +1,16 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 slug: /introduction/overview
 ---
 # Technical overview
 
-We publish climbing content ("data") in two forms, *human-readable* and *machine-readable*.  
+We publish climbing content ("data") in two forms, *human-readable* and *machine-readable*.  Having two representations of the same data enables us to address multiple community needs.  
 
-Two representations of the same data address multiple community needs.  Benefits of open access to machine-readabe climbing data:
+**Benefit of a searchable catalog of climbing information:**
+
+We're hoping by creating a useful and easy-to-use "search engine" that provides value to our users, we can build a community of editors that will help us identify inaccuracies and improve the underlying data.
+
+**Benefits of machine-readabe climbing data:**
 - Allow independent developers to build on and enrich the existing ecosystem.  
 - Provide data science students with much needed datasets. 
 - Increase the efficiency of public research related to climbing.
