@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'OpenBeta documentation',
   tagline: 'Climbing is cool',
-  url: 'https://tacos.openbeta.io',
+  url: 'https://docs.openbeta.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
