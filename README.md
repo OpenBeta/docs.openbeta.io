@@ -6,7 +6,7 @@
 
 This repo contains source code and content for https://docs.openbeta.io
 
-# Website
+# Build tool
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
