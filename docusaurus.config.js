@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'OpenBeta', 
   projectName: 'Docs', 
-
   presets: [
     [
       'classic',
@@ -124,6 +123,7 @@ const config = {
           },
         },
       },
+      image: 'img/usa-heatmap-dark.png',
     })
 }
 
