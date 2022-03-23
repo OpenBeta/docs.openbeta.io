@@ -21,6 +21,7 @@ title: "Roadmap"
 
 - Route edit: allow users add/update routes to db
 - Photo upload: allow users to upload photos
+- More mobile friendly
 - Define KPI
 
 ### Long term
