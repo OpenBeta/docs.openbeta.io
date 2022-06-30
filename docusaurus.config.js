@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenBeta documentation',
+  title: 'OpenBeta Documentation',
   tagline: 'Climbing is cool',
   url: 'https://docs.openbeta.io',
   baseUrl: '/',
@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'OpenBeta', 
-  projectName: 'Docs', 
+  projectName: 'OpenBeta-Docs', 
   presets: [
     [
       'classic',
@@ -52,7 +52,7 @@ const config = {
           },
           {
             href: 'https://tacos.openbeta.io',
-            label: 'OpenTacos',
+            label: 'Climbing Route Catalog',
             position: 'left'
           }
         ]
@@ -65,7 +65,7 @@ const config = {
             items: [
               
               {
-                label: 'Climbing route wiki (OpenTacos)',
+                label: 'Climbing Route Catalog (OpenTacos)',
                 href: 'https://tacos.openbeta.io'
               },
               {
@@ -75,6 +75,10 @@ const config = {
               {
                 label: 'Blog',
                 href: 'https://openbeta.io/blog'
+              },
+              {
+                label: 'Chat Server (Discord) ',
+                href: 'https://discord.gg/RFufzsqRmJ'
               },
             ]
           },
@@ -87,14 +91,14 @@ const config = {
               },
               {
                 label: 'GraphQL API',
-                href: 'https://discordapp.com/invite/docusaurus'
+                href: 'https://github.com/OpenBeta/openbeta-graphql'
               },
               {
-                label: 'OpenTacos',
-                href: 'https://tacos.openbeta.io'
+                label: 'Climb catalog (OpenTacos)',
+                href: 'https://github.com/OpenBeta/open-tacos'
               },
               {
-                label: '@openbeta/sandbag',
+                label: 'Climbing grade library (@openbeta/sandbag)',
                 href: 'https://github.com/OpenBeta/sandbag'
               }
             ]

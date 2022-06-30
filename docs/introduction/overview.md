@@ -23,8 +23,9 @@ We're hoping by creating a useful and easy-to-use wiki with a powerful "search e
 
 Inspired by Wikipedia and OpenStreetMap, the web application (code name OpenTacos) provides the climbing community with a searchable catalog of climbing routes.
 
-- Work-in-progress: Crag finder.
-- Planned feature: Collaborative editing.
+- [Climb Search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api)
+- [Photo sharing and climb tagging](https://openbeta.substack.com/p/share-your-climbing-photos)
+- Work-in-progress: Collaborative editing.
 
 > Live site: https://tacos.openbeta.io <br/>
 > Source code: https://github.com/openbeta/open-tacos
