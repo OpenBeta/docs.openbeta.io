@@ -5,14 +5,14 @@ sidebar_label: "Onboarding Checklist"
 ---
 ## General Checklist
 :::info Checklist for everyone
-- [ ] Sign up for [Discord](https://discord.com/invite/a5HskjmqPc)
+- [ ] Sign up for [Discord](https://discord.gg/RFufzsqRmJ)
 - [ ] Sign up for [GitHub](https://github.com/signup)
 
 :::
 
 ## Dev Bootcamp Checklist
 :::info Bootcamp Checklist for Dev
-- [ ] Sign up for [Discord](https://discord.com/invite/a5HskjmqPc)
+- [ ] Sign up for [Discord](https://discord.gg/RFufzsqRmJ)
 - [ ] Sign up for [GitHub](https://github.com/signup)
 - [ ] GitHub: be able to fork a repo and submit a pull-request
 - [ ] GitHub: be able to rebase your branch with remote

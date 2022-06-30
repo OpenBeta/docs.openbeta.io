@@ -10,18 +10,19 @@ title: "Roadmap"
 - Continue to provide open license climbing datasets
 - Improve the wiki: easy to use search and collaborative editing
 
-### Short term (due April 2022)
+### Recent Releases (June 2022)
 
-- Crag finder: filter crags/climbs near a location ([open-tacos#178](https://github.com/OpenBeta/open-tacos/issues/178))
-- Complete official style guide
-- Apply style to landing page
-- Publish legal docs: Terms of Service, License texts
-
-### Medium term (due June 2022)
-
-- Route edit: allow users add/update routes to db
-- Photo upload: allow users to upload photos
+- [Crag finder](https://openbeta.substack.com/p/introducing-crag-finder)
+- [Climb Search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api)
+- [Photo sharing and climb tagging](https://openbeta.substack.com/p/share-your-climbing-photos)
 - More mobile friendly
+
+- Complete official style guide
+
+### Medium Term (due August 2022)
+
+- Route edit: allow users add/update routes to the database
+- Publish legal docs: Terms of Service, License texts
 - Define KPI
 
 ### Long term

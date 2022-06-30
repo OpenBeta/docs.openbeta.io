@@ -19,16 +19,27 @@ This project and everyone participating in it is governed by the [OpenBeta of Co
 
 We want contributing to the project be fun and educational.  Here's a non-exhaustive list of areas we're needing help with:
 
-### Software development
+### Data Science & Data Engineering
 
-We're looking for help with frontend, backend, full stack development, and data engineering.
+We're looking help to parse and organize FA information.  We're also looking for help to improve search indices for the [Climb search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api).
 
-**Our tech stack:** JavaScript/TypeScript, HTML, CSS, Tailwindcss, Node.js, Python, Pandas, MongoDB, Docker and Kubernetes.
+**Review the [onboarding checklist](./onboarding-checklist).**
+
+
+### Software Development
+
+We're looking for help with frontend, backend, and full stack development.
+
+**Our tech stack:** JavaScript (TypeScript), HTML, CSS, TailwindCSS, Node.js, GraphQL, Python, Pandas, MongoDB, Docker and Kubernetes.
 
 We follow the standard GitHub pull-request and merge process.  
 
-:::info
-For new contributors, we ask that you fork the repo you will be working on, and submit pull requests from your fork.  We invite frequent contributors to join the core dev team with write permission to simplify your workflow.
+:::info First-Time Contributors
+We ask that you fork the repo you will be working on, and submit pull requests from your fork.  We invite frequent contributors to join the core dev team with write permission to simplify your workflow.
+:::
+
+:::tip API Keys
+If you're working on issues that involve user profile and photos, email viet at openbeta.io and I'd be happy to share all the required API keys.
 :::
 
 **Review the [onboarding checklist](./onboarding-checklist).**
