@@ -10,7 +10,7 @@ We publish climbing content ("data") in two forms, *human-readable* and *machine
 
 We're hoping by creating a useful and easy-to-use wiki with a powerful "search engine" that provides value to our users, we can build a community of editors that will help us identify inaccuracies and improve the underlying data.
 
-### Benefits of open access to machine-readabe climbing data:
+### Benefits of open access to machine-readable climbing data:
 
 - Enable independent developers to build on and enrich the existing ecosystem.  
 - Provide data science students with much needed datasets. 
