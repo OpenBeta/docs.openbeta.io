@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OpenBeta Documentation',
-  tagline: 'Climbing is cool',
+  tagline: 'Open source rock climbing',
   url: 'https://docs.openbeta.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -128,6 +128,27 @@ const config = {
         },
       },
       image: 'img/usa-heatmap-dark.png',
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'YWE9NFCDLU',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '12803c67ca29a29fe77268954d81745e',
+  
+        indexName: 'openbeta',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        //externalUrlRegex: 'external\\.com|domain\\.com',
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+        }
     })
 }
 
