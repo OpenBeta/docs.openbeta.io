@@ -51,13 +51,24 @@ OpenBeta makes use of a heatmap to express climb density, with hotspots represen
 
 ## How can I contribute to OpenTacos
 
+"Contributors" on OpenTacos are the people who help to maintain and grow the OpenBeta dataset. To join this effort all you need is [an account](#create-an-account)
+
+There are a number of ways you can join the effort, some of them are listed below.
+
 ### Become a Contributor
 
+Even if all you do is upload some photos and correct some spelling, being a contributor on OpenTacos will improve the dataset for future climbers.
+
 ### Join the Team
+
+If you want, you can go beyond working with the tools provided by OpenTacos. This could be to **work on the tools themselves** or to assist the developers that are.
+
+The OpenBeta team usually communicate on [discord](https://discord.gg/RFufzsqRmJ) and catalogue issues with [GitHub](https://github.com/openbeta/opentaco)
 
 #### Become a Developer
 
 Follow the [onboarding process](/how-to-contribute/onboarding-checklist) and start contributing code to the OpenTacos project! 🖥
+
 
 #### Contribute in other parts of development
 
