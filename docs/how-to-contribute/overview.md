@@ -8,23 +8,27 @@ title: "Welcome"
 
 OpenBeta is a climber-led, all-volunteer effort. You can get involved with just a one-off task or join the core volunteer team and participate in longer term projects.
 
-We're building a new climbing platform from the ground up, which means fewer constrains and without ten thousand lines of legacy code.  You can make a direct impact on the future of open source + rock climbing.
+We're building a new climbing platform from the ground up, which means fewer constrains and without ten thousand lines of legacy code. You can make a direct impact on the future of open source + rock climbing.
 
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the [OpenBeta of Conduct](./code-of-conduct). By participating, you are expected to uphold this code.
 
-
 ## How can I contribute?
 
-We want contributing to the project be fun and educational.  Here's a non-exhaustive list of areas we're needing help with:
+We want contributing to the project be fun and educational. Here's a non-exhaustive list of areas we're needing help with:
+
+### Data maintenance and growth using [OpenTacos](/how-to-contribute/using-opentacos/introduction)
+
+This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
+
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenTacos](https://openbeta.io)
 
 ### Data Science & Data Engineering
 
-We're looking help to parse and organize FA information.  We're also looking for help to improve search indices for the [Climb search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api).
+We're looking help to parse and organize FA information. We're also looking for help to improve search indices for the [Climb search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api).
 
 **Review the [onboarding checklist](./onboarding-checklist).**
-
 
 ### Software Development
 
@@ -32,10 +36,10 @@ We're looking for help with frontend, backend, and full stack development.
 
 **Our tech stack:** JavaScript (TypeScript), HTML, CSS, TailwindCSS, Node.js, GraphQL, Python, Pandas, MongoDB, Docker and Kubernetes.
 
-We follow the standard GitHub pull-request and merge process.  
+We follow the standard GitHub pull-request and merge process.
 
 :::info First-Time Contributors
-We ask that you fork the repo you will be working on, and submit pull requests from your fork.  We invite frequent contributors to join the core dev team with write permission to simplify your workflow.
+We ask that you fork the repo you will be working on, and submit pull requests from your fork. We invite frequent contributors to join the core dev team with write permission to simplify your workflow.
 :::
 
 :::tip API Keys
