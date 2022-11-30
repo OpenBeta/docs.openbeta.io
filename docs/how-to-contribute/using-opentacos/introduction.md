@@ -12,9 +12,11 @@ If you're here we assume you've already [visited the site](https://openbeta.io) 
 
 [OpenTacos](https://github.com/openbeta/opentacos) is our mystically-named website that provides users with a way to work with the climbing dataset in their day to day climbing adventures.
 
-While the history of the name may be a little hazy, the purpose of the site is clearly defined. A platform and tool-set that reduces friction as much as possible for users who are minded to help maintain the OpenBeta climbing data. 
+While the history of the name may be a little hazy, the purpose of the site is clearly defined. A platform and tool-set that reduces friction as much as possible for users who are minded to help maintain the OpenBeta climbing data.
 
 ### Home Page
+
+![Homepage](/img/tutorial/opentacos/homepage.png)
 
 The [home page](https://openbeta.io) of OpenTacos is a dynamic place, and will be changing constantly over the next few development cycles (If you want to be a part of shaping it, visit our [github](https://github.com/OpenBeta)).
 
@@ -22,32 +24,43 @@ Don't let this scare you! The home page will always put you a few clicks from ma
 
 ### Climb Page
 
-screenshot goes here <-
+![Climbing Page screenshot](/img/tutorial/opentacos/climb-page.png)
 
 The climb page documents all-things climbing. This is where you can see all images tagged with a climb, as well as all recorded beta.
 
 #### Ticks
 
-##### How to import ticks from [Mountain Project](https://mountainproject.com)
+Ticks allow users to log and track the climbs that they have completed. Ticks serve a number of practical purposes ([See more about ticks here](/how-to-contribute/contribute-data/climbs#Ticks))
 
-See more about ticks [here](/how-to-contribute/contribute-data/using-opentacos/profile#Ticks)
+##### How to import ticks from [Mountain Project](https://mountainproject.com)
 
 ### Crag / Boulder Page
 
 ### Area Page
 
-### [Profile](/how-to-contribute/contribute-data/using-opentacos/profile)
-If you are logged in to OpenTacos, you will see a profile button in the top right. This is where you will manage things related to your profile
+![area page](/img/tutorial/opentacos/area-page.png)
+
+The area page allows you to browse the climb/crag heirarchy and see where data has been sorted. Areas also collate media from their children, which can be useful while navigating or sizing up a crag or boulder.
+
+### [Profile](/how-to-contribute/using-opentacos/profile-and-photos)
+
+If you are logged in to OpenTacos, you will see a profile button in the top right. This is where you will manage things related to your profile ([click here to see more about the profile page](/how-to-contribute/using-opentacos/profile-and-photos))
 
 ### Create an Account
 
 In order to make data contributions to OpenBeta, users are required to be authenticated. All you need is an email address, and you can get going! 📭
 
+Go to the [home page](https://openbeta.io) and click the **become a contributor** button in the top right corner.
+
+![sign in button](/img/tutorial/opentacos/sign-in.png)
+
 ### Maps
 
-Maps are a critical and currently growing part of the OpenBeta service offering. Weather you're navigating or simple exploring an area, maps are a critical part of the process.
+Maps are a critical and currently growing part of the OpenBeta service offering. Whether you're navigating or simple exploring an area, maps are an invaluable part of the process.
 
-OpenBeta makes use of a heatmap to express climb density, with hotspots representing areas that have a high density of climbs.
+OpenBeta makes use of a heatmap to express climb density, with hotspots representing areas that have a high density of climbs (as can be seen in the below image)
+
+![maps](/img/tutorial/opentacos/map-page.png)
 
 ## How can I contribute to OpenTacos
 
@@ -69,9 +82,8 @@ The OpenBeta team usually communicate on [discord](https://discord.gg/RFufzsqRmJ
 
 Follow the [onboarding process](/how-to-contribute/onboarding-checklist) and start contributing code to the OpenTacos project! 🖥
 
-
 #### Contribute in other parts of development
 
 If you are not a developer - but still want to assist with development - fear not! You could [become a sponsor](/support-us), but you needn't stop there. Our developers often need help finding and reporting bugs, you can report bugs either as an [issue on the repository](https://github.com/openbeta/opentacos/issues) or by reporting it in the [discord server](https://discord.gg/RFufzsqRmJ).
 
-We look forward to working with you! 
+We look forward to working with you!
