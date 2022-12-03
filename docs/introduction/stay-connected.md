@@ -1,7 +1,7 @@
 ---
 title: "Follow our progress"
 sidebar_position: 9
-slug: '/stay-connected'
+slug: "/stay-connected"
 ---
 
 Subscribe to our monthly newsletter to receive updates.
