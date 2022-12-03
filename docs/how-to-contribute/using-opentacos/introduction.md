@@ -30,7 +30,7 @@ The climb page documents all-things climbing. This is where you can see all imag
 
 #### Ticks
 
-Ticks allow users to log and track the climbs that they have completed. Ticks serve a number of practical purposes ([See more about ticks here](/how-to-contribute/contribute-data/climbs#Ticks))
+Ticks allow users to log and track the climbs that they have completed. Ticks serve a number of practical purposes ([See more about ticks here](/how-to-contribute/contributing-data/user-related#ticks))
 
 ##### How to import ticks from [Mountain Project](https://mountainproject.com)
 
