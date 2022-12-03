@@ -60,4 +60,4 @@ Even though we encourage it, you do not have to yield licensing if you don't wan
 
 Some media doesn't make sense for Identification, but may serve some purpose not mentioned here **or may simply just be a good piece of media.** If you snap a really cool photo of your friend, OpenBeta is still interested in contributions of this type.
 
-Photos of this type - especially if taken by a professional - may be best with an [ARR](/j) [license](#licensing). OpenBeta has an interest in linking together all kinds of media, but we insist that photographers consider carefully the licensing they want to make use of when uploading to OpenBeta.
+Photos of this type - especially if taken by a professional - may be best with an [ARR](https://en.wikipedia.org/wiki/All_rights_reserved) [license](#licensing). OpenBeta has an interest in linking together all kinds of media, but we insist that photographers consider carefully the licensing they want to make use of when uploading to OpenBeta.
