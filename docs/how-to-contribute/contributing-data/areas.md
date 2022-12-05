@@ -57,6 +57,12 @@ _If you are just looking to get up and going quickly, you can likely skip over t
 
 Climbers use Areas to divide routes into contextually significant groupings. A group of boulders, for example, can be understood as a boulder field - and will be read by guidebook followers as being all within a single context. An extension of this would be groups of areas. These are also "Areas", even though they themselves are comprised of areas; These are larger but are still contextually significant to guidebook consumers. At the top level, the broadest possible area in the OpenBeta paradigm are [countries](https://wiki.openstreetmap.org/wiki/Country_code). There is potentially a "meta-area" that might be considered as "The World", but we do not support is as an explicit data structure as it is redundant.
 
-_It's also worth noting that OpenBeta yields ground on geopolitical commentary insofar as the definition of country and borders. We follow the specifications and deliberation undertaken by [Open Street maps](https://wiki.openstreetmap.org/wiki/Country_code) ([read more](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes)). OpenBeta and its contributors do care about issues in this regard, but encourage advocates to observe that [OSM](https://www.openstreetmap.org/) is upstream in this regard._
+_It's also worth noting that OpenBeta yields geopolitical commentary insofar as the definition of country and borders. We follow the specifications and deliberation undertaken by [Open Street maps](https://wiki.openstreetmap.org/wiki/Country_code) ([read more](https://wiki.openstreetmap.org/wiki/Nominatim/Country_Codes)). OpenBeta and its contributors do care about issues in this regard, but consider [OSM](https://www.openstreetmap.org/) as an upstream decision making body_
 
 ### Leaf Areas
+
+([More about Tree DS](<https://en.wikipedia.org/wiki/Tree_(data_structure)>))
+
+"Leaf Areas" in OpenBeta represent areas that contain Climbs as their direct children. Areas in the OpenBeta data model may contain other areas **or** climbs, but not both. Leaf areas are conceptually identical to 'Boulder' or 'Crag' and because of this most contributors will not be confronted with dealing with managing these areas directly. Instead, they are _presented_ to contributors **as** Boulders or crags.
+
+It can still help to understand what is going on [under the hood](../../under-the-hood/data-model) while working with the data set.
