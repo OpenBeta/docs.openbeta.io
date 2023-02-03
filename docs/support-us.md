@@ -1,6 +1,6 @@
 ---
 title: "Support us"
-sidebar_position: 10
+sidebar_position: 1000
 slug: '/support-us'
 ---
 OpenBeta, a project built by climbers, for climbers, is made possible thanks to the support of the community.

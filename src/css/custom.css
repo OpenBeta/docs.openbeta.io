@@ -152,3 +152,7 @@ article {
   font-style: normal;
   font-weight: 700;
 }
+
+h1 {
+  @apply tracking-tighter;
+}
