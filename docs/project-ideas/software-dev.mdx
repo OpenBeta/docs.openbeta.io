@@ -1,43 +1,62 @@
 ---
 sidebar_label: "Software Development"
-title: "Listed of Suggested Coding Projects for 2023"
+title: "Suggested Coding Projects for 2023"
 sidebar_position: 1
 ---
 Whether you're a coding bootcamp student, a Google Summer of Code participant, or a seasoned developer looking for a fun project to contribute to open source, you've come to the right place.
-
-The list is merely a suggestion.  If you have your own ideas please discuss them on the [OpenBeta Discord](https://discord.gg/ptpnWWNkJx) chat server.
-
-- FA data clean up
-- FA name verification tool
-- OpenStreetMap Cliff Import
-- Climbing area tree visualizer
-- Topo sketch tool
-
-Scroll down below to read more about the project listed.
 
 :::info What is Google Summer of Code?
 [Learn more about the program](https://google.github.io/gsocguides/student/)
 :::
 
+The list is merely a suggestion.  If you have your own ideas please discuss them on the [OpenBeta Discord](https://discord.gg/ptpnWWNkJx) chat server.
+
+- FA Data Cleanup
+- FA Name Verification Tool
+- OpenStreetMap Cliff Import
+- Climbing area tree visualizer
+- Topo sketch tool
+
+Scroll down below to learn more about each project.
+
+---
+
 ### FA Data Cleanup
-- Skills required: Python
-- Mentor: Viet Nguyen
-- Expected Size: 175h
-- Level of Difficulty: Medium
-- Expected Outcome: Generate a new dataset containing a list of name and date/year associated with a climb ID. Flag errors for incomplete entries.
+- **Skills required:** Python
+- **Mentor:** Viet Nguyen
+- **Expected Size:** 175h
+- **Level of Difficulty:** Medium
+- **Expected Outcome:** A new dataset in which each record contains a list of names and date/year associated with a climb ID. When encountered parsing errors or missing information, set the error attribute to true.
+- **What you will learn:** Use Python and possibly machine learning libraries to clean up data.  How to work collaboratively with other developers and stakeholdersto solve a real world problem.
 
-[First ascenionists](https://en.wikipedia.org/wiki/First_ascent) played a vital role in the development of rock climbing.  Unfortunately information about historical first ascents and modern development are scattered in printed guidebooks (some are out of print), or defunct websites.
+[First ascenionists](https://en.wikipedia.org/wiki/First_ascent) (FA) played a vital role in the development of rock climbing.  Unfortunately records of notable first ascents and modern climb area development are scattered in printed guidebooks (some are out of print), or defunct websites.
 
-This project involves processing and cleaning up a text field in a dataset of approximately 205K records of climbing routes established in the USA.  The FA field contains a CSV list of individual names and the year they established the climb.  
+This project involves processing and cleaning up the FA text field in a dataset with approximately 205K records of climbing routes established in the USA.  The text field contains a CSV list of individual names and the year they established the climb.  
 
-There are several exceptions and inconsistencies in the CSV format.  For example, the commas are not always used to separate names (the word 'and' is used instead).  Additionally the spelling of names are not always consistent. Ex: J Doe and Jane Doe are in fact referring to the same individual.
+There are several exceptions and inconsistencies in the CSV format.  For example, the commas are not always used to separate names (the word '*and*' is used instead).  Additionally the spelling of names are not always consistent. Ex: *J Doe* and *Jane Doe* are in fact referring to the same individual.  See more [examples](https://github.com/OpenBeta/fa-cleanup).
 
-The successful contributor will need an intermediate level of Python, as well as an understanding of data cleansing and  additional Python modules.
+The successful contributor will need an intermediate level of Python as well as an understanding of data cleansing.
 
+
+---
+
+### FA Name Verification Tool
+- **Skills required:** Javascript
+- **Mentor:** Viet Nguyen
+- **Expected Size:** 175h or 350h
+- **Level of Difficulty:** Medium
+- **Expected Outcome:** A new web tool added to our frontend app that enables users to add missing FA names or fix erroneous entries flagged by the the FA Data Cleanup project.
+- **What you will learn:** How to build a UI 
+
+See **FA Data Cleanup** project above for context.
+
+This project involves creating a web tool that enables openbeta.io users to browse the list of climbing routes with First ascenionists data flagged for manual verification.  A user can provide missing names or make corrections and save changes.  The tool should be an integral part of our frontend NextJS application.
+
+The successful contributor will need an intermediate level of React, CSS, and GraphQL.  If you have full stack development experience, the project can be scoped for 350 hours to give you the opportunity to work on both building the backend API and frontend UI. 
 
 ### OpenStreetMap Cliff Import
 - Skills required: Javascript
-- Mentor: Viet Nguyen
+- Mentor: TBA
 - Expected Size: 175h
 - Level of Difficulty: Medium
 - Expected Outcome: 
