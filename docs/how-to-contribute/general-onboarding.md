@@ -12,7 +12,7 @@ sidebar_label: "General Onboarding Checklist"
 # Step 2 Deep Dive About Open Beta
 
 - [ ] Read [our roadmap](https://docs.openbeta.io/introduction/roadmap)
-- [ ] Read [our blog]()
+- [ ] Expolore [our docs](https://docs.openbeta.io/)
 
 # Step 3 Organization Workflow
 Our workflow involves both unsynchronized communications through GitHub issues, pull requests (PRs), and a Discord channel, as well as regular synchronized meetings. Here's an overview of our organization workflow:
@@ -22,14 +22,18 @@ Our workflow involves both unsynchronized communications through GitHub issues, 
 ### GitHub Issues:
 
 - Use GitHub issues to report bugs, suggest features, or discuss project-related topics.
-- If you'd like to work on the issue, assign yourself.
-- If you are unsure about how to start, you could @ our core dev team members(list here). Alternatively, you could post in our discord channel to get help.
+- If you'd like to work on the issue, leave a comment to express your interest.
+- If you are unsure about how to start, you could comment and ask for help. Alternatively, you could post in our discord channel to get help.
 
 ### Pull Requests (PRs):
 
-- Once you know how to start working on the issue, you could fork the project repository and create a branch for your changes. 
+- Once you know how to start working on the issue, you should fork the project repository and create a branch for your changes. 
 - Submit PRs to propose changes, bug fixes, or new features.
-- Request reviews from our core dev team members, engage in PR discussions, respond to feedback, and iterate on the changes based on reviewer comments.
+- Each PR should fix a single issue or small set of related issues.
+- Request reviews from our core dev team members. If you are unsure about whom to request, add `@actuallyyun` to the reviewers list, and she will find an appropriate team member to review your PR.
+- Once the PR is reviewd, please engage in PR discussions, respond to feedback, and iterate on the changes based on reviewer comments.
+
+To learn more, see OpenBeta Pull Request Guideline(coming soon...)
 
 ### Discord Channel:
 
@@ -41,25 +45,28 @@ Our workflow involves both unsynchronized communications through GitHub issues, 
 ## Synchronized Meetings
 We meet bi-weekly to synchronize efforts and provide updates on the project's progress. Check out the current project we are working on and join the meeting if you are interested.
 
+You could find meeting infomation in our discord channel.
+
 # Step 4: Approval Process
 1. GitHub Issues: 
 
-- Everyone can open an issue and assign themselves to the issue.
+- Everyone can open an issue. To work on an issue, you should leave a comment stating that you want to work on this issue, and our maintainers will assign you if appropriate.
 - If you'd like to work on an existing issue, please comment and make sure that no one is working on it to avoid duplicated effort.
 - We recommend you discuss the solutions you have in mind before you start working on it. If you don't know where to start, you should ask for help. Please refer to the organization workflow to start a conversation. 
 
 2. Pull Requests:
 
-- You could assign our core dev team members to review your PR.
-- During the review process, you might get some feedback and suggestions. 
+- Open a PR to submit your code.
+- Ask for review and engage in the reviewing process.
 
 3. Approval and Merging
-Once your changes have been reviewed and you've incorporated the feedback, one of our project maintainers will merge your PR. (@vnugent  not sure if this is the workflow we have now, please advise)
+
+Once your changes have been reviewed and you've incorporated the feedback, project maintainers will merge your PR. 
 
 
 # What's Next?
-Devs please move to [dev onboarding](#)
+Devs please move to [dev onboarding](coming soon...)
 
-UI/UX please move to [design onboarding]()
+UI/UX please move to [design onboarding](coming soon...)
 
-Marketing gurus please go to [marketing onboarding]()
+Marketing gurus please go to [marketing onboarding](coming soon...)

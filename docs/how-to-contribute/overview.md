@@ -17,7 +17,7 @@ This project and everyone participating in it is governed by the [OpenBeta of Co
 We want contributing to the project be fun and educational. Whether you have a little time to spare or are ready to dive in deep, we have various levels of involvement to suit your availability and commitment. 
 
 ### Level 0️⃣ { Warmups } Start Using [openbeta.io](https://openbeta.io/)
-⌛: 1 hr/week
+⌛: < 1 hr/week
 
 🔨: none
 
@@ -31,16 +31,16 @@ If you have limited time but still want to contribute, you can help by simply st
 If you have a bit more time, you could have a quick contribution in two fields:
 
 #### No Code
-⌛: 3 hrs/week
+⌛: < 3 hrs/week
 
 🔨: none
 
 Contributing to data maintaince and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenTacos](https://openbeta.io)
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenBeta](https://openbeta.io)
 
 #### Code 
-⌛: 10 hrs/week
+⌛: < 3 hrs/week
 
 🔨: coding skills
 
@@ -54,18 +54,17 @@ If you want to be more involved, consider working on medium-sized contributions.
 
 #### No Code
 
-⌛: 10 hrs/week
+⌛: ~ 10 hrs/week
 
 🔨: UI/UX Marketing Communication
 
-1. Become Our Regional Ambassador and maintain an area
-tbd (what is  Regional Ambassador, responsibilities and how to start) 
-2. Help us with UI/UX design, you can pick up a design task from this list. Please go to Design onboarding to get started.
+1. Become Our Regional Ambassador and maintain an area.
+2. Help us with UI/UX design, you can pick up a design task from this list. Please go to Design onboarding(coming soon...) to get started.
 3. Help us with marketing.
 
 #### Code
 
-⌛: 10 hrs/week
+⌛: ~ 10 hrs/week
 
 🔨: Coding skills
 
@@ -79,7 +78,7 @@ Go to [Dev Onboarding](https://docs.openbeta.io/how-to-contribute/onboarding-che
 If you are passionate about the project and want to make significant contributions over an extended period, this level of involvement is for you. Here's how you can make a lasting impact:
 
 #### No Code
-⌛: 15 hrs/week
+⌛: ~ 15 hrs/week
 
 🔨: Marketing UX/UI Design
 
@@ -88,7 +87,7 @@ We are looking for social media managers and UX/UI designers.You could find more
 We're looking for help improving the user experience, making it easier for climbers to use the wiki to do their research and participate in the project.
 
 #### Code
-⌛: 15 hrs/week
+⌛: ~ 15 hrs/week
 
 🔨: Coding skills
 
@@ -117,8 +116,8 @@ Thank you for considering contributing to Open Beta We appreciate your support, 
 
 Useful Resources for contributing:
 
-- [Code of Conduct]()
-- [General Onboarding]()
-- [Dev Onboarding]()
-- [Designer Onboarding]()
-- [Marketing Onboarding]()
+- [Code of Conduct](https://docs.openbeta.io/how-to-contribute/code-of-conduct)
+- General Onboarding(Coming soon...)
+- Dev Onboarding(Coming soon...)
+- Designer Onboarding(Coming soon...)
+- Marketing Onboarding(Coming soon...)
