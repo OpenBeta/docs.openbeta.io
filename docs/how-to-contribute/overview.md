@@ -21,10 +21,10 @@ We want contributing to the project be fun and educational. Whether you have a l
 
 🔨: none
 
-If you have limited time but still want to contribute, you can help by simply start using open beta 
+If you have limited time but still want to contribute, you can help by simply start using Open Beta, our climbing catalog.
 
 1. Register an account, browse climbing data, add climbing data if you can't find what you are looking for, and share your climbing photos with the community. 
-2. You could also support us by following our social media accounts, and tagging us when you post something about open beta.
+2. You could also support us by following our social media accounts, and tagging us when you post something about Open Beta.
 3. Give us feedback. How do you like it? What features would you like to have? Help us improve the project by reporting any bugs, usability concerns, or feature requests you come across. You can do so either through our [Discord](https://discord.com/invite/ptpnWWNkJx) community,  or by submitting issues in [Open Tacos GitHub repo](https://github.com/OpenBeta/open-tacos). 
 
 ### Level 1️⃣ { Onsights } Quick Contributions
@@ -105,7 +105,7 @@ We ask that you fork the repo you will be working on, and submit pull requests f
 If you're working on issues that involve user profile and photos, email viet at openbeta.io and I'd be happy to share all the required API keys.
 :::
 
-➡️ You can join our core dev team by simply completing our dev onboarding program and work on some tasks first. If by then you are still interested joining, please express your interest in our Discord channel.
+➡️ You can join our core dev team by simply completing our dev onboarding program and work on some tasks first. If by then you are still interested in joining, please express your interest in our Discord channel.
 
 
 Remember, regardless of the level you choose, collaboration and open communication are vital. Engage with the community, ask questions, and seek feedback when needed. 

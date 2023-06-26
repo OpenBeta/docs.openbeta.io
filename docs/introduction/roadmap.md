@@ -22,6 +22,7 @@ title: "Roadmap"
 
 - Climbing Log Project
 - Upgrade database to support multipitch routes
+- Improve contributors onboarding experience
 
 ### By The End of 2023
 Coming soon...

@@ -45,14 +45,14 @@ To learn more, see OpenBeta Pull Request Guideline(coming soon...)
 ## Synchronized Meetings
 We meet bi-weekly to synchronize efforts and provide updates on the project's progress. Check out the current project we are working on and join the meeting if you are interested.
 
-You could find meeting infomation in our discord channel.
+You could find meeting information in our Discord channel.
 
 # Step 4: Approval Process
 1. GitHub Issues: 
 
 - Everyone can open an issue. To work on an issue, you should leave a comment stating that you want to work on this issue, and our maintainers will assign you if appropriate.
 - If you'd like to work on an existing issue, please comment and make sure that no one is working on it to avoid duplicated effort.
-- We recommend you discuss the solutions you have in mind before you start working on it. If you don't know where to start, you should ask for help. Please refer to the organization workflow to start a conversation. 
+- We recommend you to discuss the solutions you have in mind before you start working on it. If you don't know where to start, you should ask for help. Please refer to the organization workflow to start a conversation. 
 
 2. Pull Requests:
 
