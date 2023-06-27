@@ -1,13 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: "Onboarding Checklist"
 sidebar_label: "Onboarding Checklist"
 ---
-## General Checklist
-:::info Checklist for everyone
-- [ ] Sign up for [Discord](https://discord.gg/RFufzsqRmJ)
-- [ ] Sign up for [GitHub](https://github.com/signup)
-
+## General Onboarding
+:::info 
+[Onboarding for everyone](./general-onboarding.md)
 :::
 
 ## Dev Bootcamp Checklist
