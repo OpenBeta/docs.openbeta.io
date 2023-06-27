@@ -6,8 +6,8 @@ sidebar_label: "How to create an Area or Climb"
 
 ## First Steps
 
-1. Create an OpenTacos Account
-1. Make sure the Addition you are about to make doesn't already exist.
+1. Create an account on [OpenBeta](https://openbeta.io)
+1. Make sure the addition you are about to make doesn't already exist.
 
 # How to Add a Climb to OpenBeta
 
