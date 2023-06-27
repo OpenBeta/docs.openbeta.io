@@ -6,31 +6,91 @@ title: "Welcome"
 
 🎉 **First off, thanks for taking the time to contribute!** 👍
 
-OpenBeta is a climber-led, all-volunteer effort. You can get involved with just a one-off task or join the core volunteer team and participate in longer term projects.
-
-We're building a new climbing platform from the ground up, which means fewer constrains and without ten thousand lines of legacy code. You can make a direct impact on the future of open source + rock climbing.
+OpenBeta is a climber-led, all-volunteer effort. You don't have to code to get involved. We listed four levels of contribution based on your avalibility and commitment. Choose the level that best fits your preferences and make a meaningful impact on the future of open source + rock climbing.
 
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the [OpenBeta Code of Conduct](./code-of-conduct). By participating, you are expected to uphold this code.
 
-## How can I contribute?
+## ❓ How can I contribute?
 
-We want contributing to the project be fun and educational. Here's a non-exhaustive list of areas we're needing help with:
+We want contributing to the project be fun and educational. Whether you have a little time to spare or are ready to dive in deep, we have various levels of involvement to suit your availability and commitment. 
 
-### Data maintenance and growth using [OpenBeta](/how-to-contribute/using-openbeta/introduction)
 
-This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
+### Level 0️⃣ { Warmups } Start Using [openbeta.io](https://openbeta.io/)
+⌛: < 1 hr/week
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta Climbing Catalog](https://openbeta.io)
+🔨: none
 
-### Data Science & Data Engineering
+If you have limited time but still want to contribute, you can help by simply start using Open Beta, our climbing catalog.
 
-We're looking help to parse and organize FA information. We're also looking for help to improve search indices for the [Climb search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api).
+1. Register an account, browse climbing data, add climbing data if you can't find what you are looking for, and share your climbing photos with the community. 
+2. You could also support us by following our social media accounts, and tagging us when you post something about Open Beta.
+3. Give us feedback. How do you like it? What features would you like to have? Help us improve the project by reporting any bugs, usability concerns, or feature requests you come across. You can do so either through our [Discord](https://discord.com/invite/ptpnWWNkJx) community,  or by submitting issues in [Open Tacos GitHub repo](https://github.com/OpenBeta/open-tacos). 
 
-**Review the [onboarding checklist](./onboarding-checklist).**
+### Level 1️⃣ { Onsights } Quick Contributions
+If you have a bit more time, you could have a quick contribution in two fields:
 
-### Software Development
+#### No Code
+⌛: < 3 hrs/week
+
+🔨: none
+
+Contributing to data maintaince and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
+
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenBeta](https://openbeta.io)
+
+#### Code 
+⌛: < 3 hrs/week
+
+🔨: coding skills
+
+1. Pick up an issue: Browse through the list of open issues and find one that matches your skills and interests. Leave a comment expressing your intent to work on it to avoid duplication of effort.
+2. Submit pull requests: Implement bug fixes, add new features, or improve documentation. Make sure to follow the project's coding style and conventions, write tests, and keep the changes concise and focused.
+
+Go to [Dev Onboarding](https://docs.openbeta.io/how-to-contribute/onboarding-checklist) to get started.
+
+### Level 2️⃣ { Day Projects } Medium Contributions
+If you want to be more involved, consider working on medium-sized contributions. Here are some ways to get started: 
+
+#### No Code
+
+⌛: ~ 10 hrs/week
+
+🔨: UI/UX Marketing Communication
+
+1. Become Our Regional Ambassador and maintain an area.
+2. Help us with UI/UX design, you can pick up a design task from this list. Please go to Design onboarding(coming soon...) to get started.
+3. Help us with marketing.
+
+#### Code
+
+⌛: ~ 10 hrs/week
+
+🔨: Coding skills
+
+If our current project interests you, consider joining the project!
+You can find our current project [here](https://docs.openbeta.io/project-ideas/software-dev).
+
+Go to [Dev Onboarding](https://docs.openbeta.io/how-to-contribute/onboarding-checklist) to get started.
+
+### Level 3️⃣ { Projects } Deep Dive and Long-Term Contributions
+
+If you are passionate about the project and want to make significant contributions over an extended period, this level of involvement is for you. Here's how you can make a lasting impact:
+
+#### No Code
+⌛: ~ 15 hrs/week
+
+🔨: Marketing UX/UI Design
+
+We are looking for social media managers and UX/UI designers.You could find more detailed information [here](https://docs.openbeta.io/project-ideas/non-coding)
+
+We're looking for help improving the user experience, making it easier for climbers to use the wiki to do their research and participate in the project.
+
+#### Code
+⌛: ~ 15 hrs/week
+
+🔨: Coding skills
 
 We're looking for help with frontend, backend, and full stack development.
 
@@ -46,28 +106,19 @@ We ask that you fork the repo you will be working on, and submit pull requests f
 If you're working on issues that involve user profile and photos, email viet at openbeta.io and I'd be happy to share all the required API keys.
 :::
 
-**Review the [onboarding checklist](./onboarding-checklist).**
+➡️ You can join our core dev team by simply completing our dev onboarding program and work on some tasks first. If by then you are still interested in joining, please express your interest in our Discord channel.
 
----
 
-### Graphic, UX Design
+Remember, regardless of the level you choose, collaboration and open communication are vital. Engage with the community, ask questions, and seek feedback when needed. 
 
-We're looking for help improving the user experience, making it easier for climbers to use the wiki to do their research and participate in the project.
+Thank you for considering contributing to Open Beta We appreciate your support, and we look forward to seeing your contributions!
 
-**Review the [onboarding checklist](./onboarding-checklist).**
 
----
 
-### Social media/Community manager
+Useful Resources for contributing:
 
-We're looking for help growing and managing our Instagram and social media presence.
-
-**Review the [onboarding checklist](./onboarding-checklist).**
-
----
-
-### Route maintenance & development
-
-If you're a route developer or a part of a climber coalition, we would love to work with you to currate and update route information for your local crags.
-
-**Continue to [Route development](./route-development) page.**
+- [Code of Conduct](https://docs.openbeta.io/how-to-contribute/code-of-conduct)
+- General Onboarding(Coming soon...)
+- Dev Onboarding(Coming soon...)
+- Designer Onboarding(Coming soon...)
+- Marketing Onboarding(Coming soon...)
