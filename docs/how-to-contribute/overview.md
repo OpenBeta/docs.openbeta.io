@@ -18,11 +18,11 @@ This project and everyone participating in it is governed by the [OpenBeta Code 
 
 We want contributing to the project be fun and educational. Here's a non-exhaustive list of areas we're needing help with:
 
-### Data maintenance and growth using [OpenBeta](/how-to-contribute/using-opentacos/introduction)
+### Data maintenance and growth using [OpenBeta](/how-to-contribute/using-openbeta/introduction)
 
 This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenBeta Climbing Catalog](https://openbeta.io)
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta Climbing Catalog](https://openbeta.io)
 
 ### Data Science & Data Engineering
 

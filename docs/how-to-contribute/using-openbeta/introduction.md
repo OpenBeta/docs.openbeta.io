@@ -8,7 +8,7 @@ Welcome to OpenBeta! 🥳🥳🥳
 
 If you're here we assume you've already [visited the site](https://openbeta.io) and had a chance to click around, and are here to get help on using one of the tools bundled in OpenBeta
 
-## What is OpenTacos
+## What is OpenBeta
 
 [OpenBeta Climb Catalog](https://github.com/openbeta/open-tacos) is our website dedicated to providing users with a seamless experience while working with the climbing dataset during their climbing adventures.
 
@@ -42,9 +42,9 @@ Ticks allow users to log and track the climbs that they have completed. Ticks se
 
 The area page allows you to browse the climb/crag heirarchy and see where data has been sorted. Areas also collate media from their children, which can be useful while navigating or sizing up a crag or boulder.
 
-### [Profile](/how-to-contribute/using-opentacos/profile-and-photos)
+### [Profile](/how-to-contribute/using-openbeta/profile-and-photos)
 
-If you are logged in to OpenBeta, you will see a profile button in the top right. This is where you will manage things related to your profile ([click here to see more about the profile page](/how-to-contribute/using-opentacos/profile-and-photos))
+If you are logged in to OpenBeta, you will see a profile button in the top right. This is where you will manage things related to your profile ([click here to see more about the profile page](/how-to-contribute/using-openbeta/profile-and-photos))
 
 ### Create an Account
 
@@ -80,7 +80,7 @@ The OpenBeta team usually communicates on [discord](https://discord.gg/RFufzsqRm
 
 #### Become a Developer
 
-Follow the [onboarding process](/how-to-contribute/onboarding-checklist) and start contributing code to the OpenBeta project! 🖥
+Follow the [onboarding process](/how-to-contribute/onboarding-checklist) and start contributing code to the OpenBeta projects! 🖥
 
 #### Contribute in other parts of development
 
