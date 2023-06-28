@@ -38,7 +38,7 @@ If you have a bit more time, you could have a quick contribution in two fields:
 
 Contributing to data maintaince and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenBeta](https://openbeta.io)
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta](https://openbeta.io)
 
 #### Code 
 ⌛: < 3 hrs/week
