@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'OpenBeta', 
-  projectName: 'OpenBeta-Docs', 
+  organizationName: 'OpenBeta',
+  projectName: 'OpenBeta-Docs',
   presets: [
     [
       'classic',
@@ -51,7 +51,7 @@ const config = {
             label: 'How to Contribute'
           },
           {
-            href: 'https://tacos.openbeta.io',
+            href: 'https://openbeta.io',
             label: 'Climbing Route Catalog',
             position: 'left'
           }
@@ -63,10 +63,10 @@ const config = {
           {
             title: 'Links',
             items: [
-              
+
               {
-                label: 'Climbing Route Catalog (OpenTacos)',
-                href: 'https://tacos.openbeta.io'
+                label: 'Climbing Route Catalog',
+                href: 'https://openbeta.io'
               },
               {
                 label: 'OpenBeta.io Home',
@@ -94,7 +94,7 @@ const config = {
                 href: 'https://github.com/OpenBeta/openbeta-graphql'
               },
               {
-                label: 'Climb catalog (OpenTacos)',
+                label: 'Climb catalog (Frontend)',
                 href: 'https://github.com/OpenBeta/open-tacos'
               },
               {
@@ -131,24 +131,24 @@ const config = {
       algolia: {
         // The application ID provided by Algolia
         appId: 'YWE9NFCDLU',
-  
+
         // Public API key: it is safe to commit it
         apiKey: '12803c67ca29a29fe77268954d81745e',
-  
+
         indexName: 'openbeta',
-  
+
         // Optional: see doc section below
         contextualSearch: true,
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         //externalUrlRegex: 'external\\.com|domain\\.com',
-  
+
         // Optional: Algolia search parameters
         searchParameters: {},
-  
+
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
-        }
+      }
     })
 }
 

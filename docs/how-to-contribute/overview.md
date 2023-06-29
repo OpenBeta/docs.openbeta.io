@@ -10,11 +10,12 @@ OpenBeta is a climber-led, all-volunteer effort. You don't have to code to get i
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [OpenBeta of Conduct](./code-of-conduct). By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the [OpenBeta Code of Conduct](./code-of-conduct). By participating, you are expected to uphold this code.
 
 ## ❓ How can I contribute?
 
 We want contributing to the project be fun and educational. Whether you have a little time to spare or are ready to dive in deep, we have various levels of involvement to suit your availability and commitment. 
+
 
 ### Level 0️⃣ { Warmups } Start Using [openbeta.io](https://openbeta.io/)
 ⌛: < 1 hr/week
@@ -37,7 +38,7 @@ If you have a bit more time, you could have a quick contribution in two fields:
 
 Contributing to data maintaince and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-opentacos/introduction) or [click here to go to OpenBeta](https://openbeta.io)
+Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta](https://openbeta.io)
 
 #### Code 
 ⌛: < 3 hrs/week

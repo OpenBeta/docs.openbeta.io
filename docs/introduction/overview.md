@@ -21,13 +21,13 @@ We're hoping by creating a useful and easy-to-use wiki with a powerful "search e
 
 ### Climbing route wiki
 
-Inspired by Wikipedia and OpenStreetMap, the web application (code name OpenTacos) provides the climbing community with a searchable catalog of climbing routes.
+Inspired by Wikipedia and OpenStreetMap, the OpenBeta Climbing Catalog web application provides the climbing community with a searchable catalog of climbing routes.
 
 - [Climb Search API](https://openbeta.substack.com/p/announcing-free-access-climb-search-api)
 - [Photo sharing and climb tagging](https://openbeta.substack.com/p/share-your-climbing-photos)
 - Work-in-progress: Collaborative editing.
 
-> Live site: https://tacos.openbeta.io <br/>
+> Live site: https://openbeta.io <br/>
 > Source code: https://github.com/openbeta/open-tacos
 
 ### Climbing data
@@ -38,7 +38,7 @@ Climbing datasets in CSV, jsonlines, and Python pickle format.
 
 ### API service
 
-A GraphQL-based API that provides data for OpenTacos. We plan to open the API to public at some point in 2022. Be sure to [subscribe to the newsletter](./stay-connected).
+A GraphQL-based API that provides data for the OpenBeta Climbing Catalog. We plan to open the API to public at some point in 2022. Be sure to [subscribe to the newsletter](./stay-connected).
 
 > Source code: https://github.com/openbeta/openbeta-graphql
 

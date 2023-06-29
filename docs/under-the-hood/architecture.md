@@ -5,7 +5,7 @@ title: "Architecture"
 
 The API Servive is the source-of-truth. It provides data for:
 
-- The wiki (OpenTacos)
+- The wiki (OpenBeta Climb Catalog)
 - External text search service
 - Data exporter service
 
