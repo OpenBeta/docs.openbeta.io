@@ -80,7 +80,7 @@ The OpenBeta team usually communicates on [discord](https://discord.gg/RFufzsqRm
 
 #### Become a Developer
 
-Follow the [onboarding process](/how-to-contribute/onboarding-checklist) and start contributing code to the OpenBeta projects! 🖥
+Follow the [onboarding process](/docs/how-to-contribute/dev-onboarding.md) and start contributing code to the OpenBeta projects! 🖥
 
 #### Contribute in other parts of development
 
