@@ -48,7 +48,7 @@ Joining this effort is easy, and is critical to ensuring the long term viabiity 
 1. Pick up an issue: Browse through the list of open issues and find one that matches your skills and interests. Leave a comment expressing your intent to work on it to avoid duplication of effort.
 2. Submit pull requests: Implement bug fixes, add new features, or improve documentation. Make sure to follow the project's coding style and conventions, write tests, and keep the changes concise and focused.
 
-Go to [Dev Onboarding](https://docs.openbeta.io/how-to-contribute/onboarding-checklist) to get started.
+Go to [Dev Onboarding](./dev-onboarding.md) to get started.
 
 ### Level 2️⃣ { Day Projects } Medium Contributions
 If you want to be more involved, consider working on medium-sized contributions. Here are some ways to get started: 
@@ -72,7 +72,7 @@ If you want to be more involved, consider working on medium-sized contributions.
 If our current project interests you, consider joining the project!
 You can find our current project [here](https://docs.openbeta.io/project-ideas/software-dev).
 
-Go to [Dev Onboarding](https://docs.openbeta.io/how-to-contribute/onboarding-checklist) to get started.
+Go to [Dev Onboarding](./dev-onboarding.md) to get started.
 
 ### Level 3️⃣ { Projects } Deep Dive and Long-Term Contributions
 
