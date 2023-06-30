@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
-title: "General Onboarding Checklist"
-sidebar_label: "General Onboarding Checklist"
+title: "General Onboarding"
+sidebar_label: "General Onboarding"
 ---
 # Step 1  General Setup
 - [ ] Sign up for [Discord](https://discord.gg/RFufzsqRmJ) and introduce yourself to the community
@@ -65,7 +65,7 @@ Once your changes have been reviewed and you've incorporated the feedback, proje
 
 
 # What's Next?
-Devs please move to [dev onboarding](coming soon...)
+Devs please move to [dev onboarding](./dev-onboarding.md)
 
 UI/UX please move to [design onboarding](coming soon...)
 
