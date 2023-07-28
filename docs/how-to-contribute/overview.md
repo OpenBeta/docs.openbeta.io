@@ -6,7 +6,7 @@ title: "Welcome"
 
 🎉 **First off, thanks for taking the time to contribute!** 👍
 
-OpenBeta is a climber-led, all-volunteer effort. You don't have to code to get involved. We listed four levels of contribution based on your avalibility and commitment. Choose the level that best fits your preferences and make a meaningful impact on the future of open source + rock climbing.
+OpenBeta is a climber-led, all-volunteer effort. You don't have to code to get involved. We listed four levels of contribution based on your availability and commitment. Choose the level that best fits your preferences and make a meaningful impact on the future of open source + rock climbing.
 
 ## Code of Conduct
 
@@ -14,7 +14,7 @@ This project and everyone participating in it is governed by the [OpenBeta Code 
 
 ## ❓ How can I contribute?
 
-We want contributing to the project be fun and educational. Whether you have a little time to spare or are ready to dive in deep, we have various levels of involvement to suit your availability and commitment. 
+We want contributing to the project to be fun and educational. Whether you have a little time to spare or are ready to dive in deep, we have various levels of involvement to suit your availability and commitment. 
 
 
 ### Level 0️⃣ { Warmups } Start Using [openbeta.io](https://openbeta.io/)
@@ -22,7 +22,7 @@ We want contributing to the project be fun and educational. Whether you have a l
 
 🔨: none
 
-If you have limited time but still want to contribute, you can help by simply start using Open Beta, our climbing catalog.
+If you have limited time but still want to contribute, you can help by simply starting to use Open Beta, our climbing catalog.
 
 1. Register an account, browse climbing data, add climbing data if you can't find what you are looking for, and share your climbing photos with the community. 
 2. You could also support us by following our social media accounts, and tagging us when you post something about Open Beta.
@@ -36,9 +36,9 @@ If you have a bit more time, you could have a quick contribution in two fields:
 
 🔨: none
 
-Contributing to data maintaince and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
+Contributing to data maintenance and growth. This is where we need the largest number of contributors. The idea is for the load to be spread such that climbers can use the platform in their day to day expeditions, making edits and additions when they see something wrong or missing.
 
-Joining this effort is easy, and is critical to ensuring the long term viabiity of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta](https://openbeta.io)
+Joining this effort is easy, and is critical to ensuring the long term viability of the project. [Click here to learn more](/how-to-contribute/using-openbeta/introduction) or [click here to go to OpenBeta](https://openbeta.io)
 
 #### Code 
 ⌛: < 3 hrs/week

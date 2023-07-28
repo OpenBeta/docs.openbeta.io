@@ -40,7 +40,7 @@ Ticks allow users to log and track the climbs that they have completed. Ticks se
 
 ![area page](/img/tutorial/opentacos/area-page.png)
 
-The area page allows you to browse the climb/crag heirarchy and see where data has been sorted. Areas also collate media from their children, which can be useful while navigating or sizing up a crag or boulder.
+The area page allows you to browse the climb/crag hierarchy and see where data has been sorted. Areas also collate media from their children, which can be useful while navigating or sizing up a crag or boulder.
 
 ### [Profile](/how-to-contribute/using-openbeta/profile-and-photos)
 

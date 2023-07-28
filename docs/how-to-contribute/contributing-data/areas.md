@@ -41,7 +41,7 @@ This fact makes it very hard to make a specific list of information to capture, 
 
 ### Navigation
 
-Not all navigational challenges are created equally. Most climbing areas will have straightforward approaches, but some will be poorly documented and easy to get wrong. Weather this be because of poor or non-existent mapping data or simply complex terrain, it can sometimes be necessary to record some specific instructions regarding _getting to_ an area mentioned in the OpenBeta database.
+Not all navigational challenges are created equally. Most climbing areas will have straightforward approaches, but some will be poorly documented and easy to get wrong. Whether this be because of poor or non-existent mapping data or simply complex terrain, it can sometimes be necessary to record some specific instructions regarding _getting to_ an area mentioned in the OpenBeta database.
 
 ### Photos and Media
 
