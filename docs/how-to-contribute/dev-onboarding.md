@@ -59,7 +59,7 @@ Replace *yun* with your name.
 - Fetch the latest changes from Openbeta
     
     `git fetch openbeta develop`
-- In the branch are working on, update the changes.
+- In the branch you are working on, update the changes.
     
     `git rebase openbeta/develop`
 

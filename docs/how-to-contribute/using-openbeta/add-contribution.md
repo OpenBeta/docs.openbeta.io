@@ -27,7 +27,7 @@ The first thing to do when adding an Area, is to assign it a parent. The questio
 
 The area we are adding in this example is [Rocklands](https://en.wikipedia.org/wiki/Rocklands,_South_Africa) which is in [Clanwilliam, Cederberg](https://www.cederberg.com/), from the country [South Africa](https://en.wikipedia.org/wiki/South_Africa).
 
-We know that it is in the cederberg wilderness area South Africa, so we search for that area and select the correct entry
+We know that it is in the Cederberg Wilderness Area of South Africa, so we search for that area and select the correct entry
 
 ![step 2](/img/tutorial/opentacos/add-area-step-2.png)
 

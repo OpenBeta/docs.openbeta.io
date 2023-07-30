@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: "What is a Good Pull Request? "
-sidebar_label: "Good PR Guideline"
+sidebar_label: "Good PR Guidelines"
 ---
 
 :::info
@@ -17,23 +17,23 @@ Let's be honest, reviewing code is hard, some might say it is
 
 *--The (written) unwritten guide to pull requests*
 
-To make reviewers' life easier, we recommend these principals:
+To make reviewers' life easier, we recommend these principles:
 
 ### 1. Smaller is better
 
 Some suggest a good PR should not have more than 250 line code changes(*Anatomy of a perfect pull request*), we say even smaller. 
 
-If your PR is exploding, stop and think how you can break it down into smaller pieces. One way to do it is to follow the single responsibility principal, make sure your PR solves one problem at a time. 
+If your PR is exploding, stop and think how you can break it down into smaller pieces. One way to do it is to follow the single responsibility principle, make sure your PR solves one problem at a time. 
 
 ### 2. Keep it in scope
 
-On the same note as the first principal, if you have changes that are not related to the current PR, do not commit them to this PR, rather open a new one. 
+On the same note as the first principle, if you have changes that are not related to the current PR, do not commit them to this PR, rather open a new one. 
 
 For example, you are creating a frontend UI component. Along the way, you changed a global button style. Open a new PR for the button style change. 
 
 ### 3. Write a clear title
 
-When a reviewer see your title, she should know what this PR is about. So use strong verbs, provide context, and define the scope of your PR.
+When a reviewer sees your title, she should know what this PR is about. So use strong verbs, provide context, and define the scope of your PR.
 
 Look at the following PR titles, which ones look more clear to you?
 
@@ -55,15 +55,15 @@ Use descriptions to guide the reviewer:
 - Which issue is this PR addressing? Add reference to the GitHub issue.
 - What was changed? 
 - Add an *after* screenshots/screen recordings.If it's not obvious, use a paint program to highlight/annotate the new changes. 
-- Anything in particular you want the reviwer pay attention to? This could be things that you are not sure about, or possible risks of your change. 
+- Anything in particular you want the reviewer to pay attention to? This could be things that you are not sure about, or possible risks of your change. 
 
-Here is an example of good PR description:
+Here is an example of a good PR description:
 ![pr description example](/img/onboarding/good-pr/pr_description_example.png)
 
 
 ### 5. Create it early
 
-It's a good idea to get feedback early and correct your path if neccessary. 
+It's a good idea to get feedback early and correct your path if necessary. 
 
 You don't have to create a PR only when you feel you have finished everything. View PR and code reviews as part of the working progress. Do not code in the vacuum. As an open source project, PR is one of our main channels of communication.
 

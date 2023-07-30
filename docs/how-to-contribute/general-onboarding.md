@@ -12,7 +12,7 @@ sidebar_label: "General Onboarding"
 # Step 2 Deep Dive About Open Beta
 
 - [ ] Read [our roadmap](https://docs.openbeta.io/introduction/roadmap)
-- [ ] Expolore [our docs](https://docs.openbeta.io/)
+- [ ] Explore [our docs](https://docs.openbeta.io/)
 
 # Step 3 Organization Workflow
 Our workflow involves both unsynchronized communications through GitHub issues, pull requests (PRs), and a Discord channel, as well as regular synchronized meetings. Here's an overview of our organization workflow:
@@ -31,9 +31,9 @@ Our workflow involves both unsynchronized communications through GitHub issues, 
 - Submit PRs to propose changes, bug fixes, or new features.
 - Each PR should fix a single issue or small set of related issues.
 - Request reviews from our core dev team members. If you are unsure about whom to request, add `@actuallyyun` to the reviewers list, and she will find an appropriate team member to review your PR.
-- Once the PR is reviewd, please engage in PR discussions, respond to feedback, and iterate on the changes based on reviewer comments.
+- Once the PR is reviewed, please engage in PR discussions, respond to feedback, and iterate on the changes based on reviewer comments.
 
-To learn more, see OpenBeta Pull Request Guideline(coming soon...)
+To learn more, see OpenBeta Pull Request Guidelines (coming soon...)
 
 ### Discord Channel:
 

@@ -14,8 +14,8 @@ title: "Roadmap"
 
 - [New Feature: Local Climbing Organization, May 2023](https://openbeta.substack.com/p/openbeta-and-lcos)
 - [New Feature: Support more grade systems in openbeta/sandbag, May 2023](https://github.com/OpenBeta/sandbag)
-- Upgrade: Media Infrustructure, May 2023
-- New Feature: Allow users add/update routes to database, Jan 2023
+- Upgrade: Media Infrastructure, May 2023
+- New Feature: Allow users to add/update routes to database, Jan 2023
 - Upgrade: Export climbing data daily for consumption
 
 ### Current 
