@@ -69,11 +69,14 @@ Replace *yun* with your name.
 Open Beta repo is updated frequently. It's a good idea to rebase your branch often and keep it up-to-date with the Openbeta remote repo(not your forked repo).
 :::
 
-5. Go to `contributors-map.json` file in the `/src/assets` folder, and add your information there.
+5. Go to `contributors-map.json` file in the `/src/assets` folder, and add your information as a new element in the `"features"` array. 
 
-:::tip
-To get coordinates, you could follow [this instruction](https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop).
-:::
+The fields are:
+- `"firstName`
+- `"favoriteCrag"`
+- `"coordinates"`
+
+To get coordinates, you could follow [this instruction](https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop).The order of the coordinates is [longitude, latitude]. The coordinate does not have to be where you are exactly, a local landmark or a generic location of the town you live is fine.
 
 To find your favorite crag UUID, you could:
 - Go to [openbeta.io](https://openbeta.io/) and search it. Check its coordinates and correct them if necessary.
@@ -92,7 +95,7 @@ When you commit, a series of CI checks are run, including linting, tests, build,
 
 7. Once you successfully commit your changes, push your branch to the remote repo with `git push origin --set-upstream add-contributor-yun`. 
 
-`origin` here is the default upstream name for your forked repo. If you renamed it, use that name instead. We are pusing commits to your forked repo because new contributos are not allowed to directly push to Open Beta repo, for good reasons.
+`origin` here is the default upstream name for your forked repo. If you renamed it, use that name instead. We are pushing commits to your forked repo because new contributos are not allowed to directly push to Open Beta repo, for good reasons.
 
 8. Go to the forked repo's GitHub page, here you should see a `Compare & Pull request` reminder from GitHub, click on the big green button to create a pull request. You could choose where you want to compare it to, choose our original repo and create a PR. 
 
