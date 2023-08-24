@@ -23,7 +23,7 @@ If you have limited time but still want to contribute, you can help by simply st
 
 Here's a list of things you can do to help:  
 
-- Use [OpenBeta]((https://openbeta.io/)) to find climbing information.
+- Use [OpenBeta](https://openbeta.io/) to find climbing information.
 - If you can't find what you are looking for, create an account to add a route or two.
 - Follow our social media accounts([Instagram](https://www.instagram.com/openbetaproject/)), and tag us when you post something about OpenBeta.
 - Join our [Discord](https://discord.com/invite/ptpnWWNkJx) community. Tell us about yourself, how you like and dislike OpenBeta, and what you want to see in the future. 
