@@ -8,7 +8,7 @@ cmds = ["yarn install --no-progress --silent"]
 cmds = ["yarn build"]
 
 [start]
-cmd = "docusaurus start"
+cmd = "yarn serve"
 
 [variables]
 NODE_ENV = 'production'
