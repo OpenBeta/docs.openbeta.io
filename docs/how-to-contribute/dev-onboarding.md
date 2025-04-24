@@ -34,7 +34,7 @@ Before moving on, please make sure you understand the following:
 
 **Estimated time:** 30 mins
 
-**What you will do:** you will build Open Beta frontend project on your local machine, make changes to `contributors-map.json` file, and create your first pull request in openbeta/opentacos repo. 
+**What you will do:** you will build Open Beta frontend project on your local machine, make changes to `contributors-map.geojson` file, and create your first pull request in openbeta/opentacos repo. 
 
 ### Pre-requisitions
 Make sure you have the following tools installed on your local machine:
@@ -75,7 +75,7 @@ Replace *yun* with your name.
 Open Beta repo is updated frequently. It's a good idea to rebase your branch often and keep it up-to-date with the original Openbeta remote repo(not your forked repo).
 :::
 
-6. Navigate to `contributors-map.json` file in the `/src/assets` folder, and add your information as a new element in the `"features"` array. 
+6. Navigate to `contributors-map.geojson` file in the `/src/assets` folder, and add your information as a new element in the `"features"` array. 
 
 The fields are:
 - `"firstName`
