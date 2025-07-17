@@ -120,7 +120,8 @@ When you commit, a series of CI checks are run, including linting, tests, build,
 **Estimated time:** 10 mins
 
 ### - All devs
-Get your API keys. We are automating this process. Before that, please email to `viet at openbeta.io`.
+Get your API keys. We are automating this process. Before that, please email to `viet at openbeta.io`.  
+Also, check out this video to get familiar with our tech stack and how our app works: [Watch the video](https://www.youtube.com/watch?v=HA_m0PCyahE&t=40s)
 
 ### - Frontend
 You already have the project build in the first challenge.
