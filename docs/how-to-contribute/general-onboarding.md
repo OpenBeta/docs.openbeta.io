@@ -6,7 +6,7 @@ sidebar_label: "General Onboarding"
 The following steps will quickly get you setup for conrtibuting to OpenBeta.
 ## Step 1  General setup
 
-- [ ] Sign up for [Discord](https://discord.gg/RFufzsqRmJ) and introduce yourself to the community in the #introduce-yourself channel.
+- [ ] Sign up for [Discord](https://discord.gg/yQtN3uCRzr) and introduce yourself to the community in the #introduce-yourself channel.
 - [ ] Sign up for [openbeta.io](https://openbeta.io/).
 - [ ] Subscribe to [our newsletter](https://docs.openbeta.io/stay-connected).
 - [ ] Connect with us on [Instagram](https://www.instagram.com/openbetaproject/).
