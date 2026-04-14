@@ -37,7 +37,7 @@ If you have a bit more time, you can have a quick contribution in two fields:
 
 You can contribute to data maintenance and growth. This is critical to the long term viability of the project, and also where we need the largest number of contributors. 
 
-Since OpenBeta is a community based platform, we reply on climbers to use it in their day to day adventures, and to make edits and additions when they see something wrong or missing.
+Since OpenBeta is a community based platform, we rely on climbers to use it in their day to day adventures, and to make edits and additions when they see something wrong or missing.
 
 Visit [Using OpenBeta](/how-to-contribute/using-openbeta/introduction) to learn more about how to contribute data to the platform.
 
@@ -50,7 +50,7 @@ If you have coding skills, you can follow the steps below to make your first con
 
 1. Pick up an issue: Browse through the list of open issues and find one that matches your skills and interests. 
 2. Leave a comment expressing your intent to work on it to avoid duplication of effort.
-3. Work on the issue once you are assinged to it.
+3. Work on the issue once you are assigned to it.
 4. Submit a pull request. Make sure to follow the project's coding style and conventions, write tests, and keep the changes concise and focused.
 
 Go to [Dev Onboarding](./dev-onboarding.md) to get started.
