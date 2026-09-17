@@ -3,6 +3,7 @@
   "name": "docs-openbeta-io",
   "compatibility_date": "2025-07-18",
   "send_metrics": false,
+  "preview_urls": true,
   "assets": {
     "directory": "./build",
     "not_found_handling": "404-page"
