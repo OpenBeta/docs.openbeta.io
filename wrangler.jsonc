@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "openbeta-docs",
+  "name": "docs-openbeta-io",
   "compatibility_date": "2025-07-18",
   "assets": {
     "directory": "./build",
