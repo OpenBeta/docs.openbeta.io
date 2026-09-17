@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "openbeta-docs",
+  "compatibility_date": "2025-07-18",
+  "assets": {
+    "directory": "./build",
+    "not_found_handling": "404-page"
+  }
+}
